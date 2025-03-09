@@ -1,0 +1,4 @@
+2025-03-09 23:03:13.769 | WARNING  | __main__:main:19 - Processing your request...
+2025-03-09 23:03:13.770 | INFO     | app.agent.base:run:137 - Executing step 1/30
+2025-03-09 23:06:15.132 | ERROR    | app.llm:ask_tool:260 - API error: Request timed out.
+2025-03-09 23:09:17.630 | ERROR    | app.llm:ask_tool:260 - API error: Request timed out.
